@@ -1,0 +1,13 @@
+# ninja log v5
+0	8322	1737122882595651887	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cpu/ms_deform_attn_cpu.o	f77241854eff5be4
+0	22078	1737122896340189361	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cuda/ms_deform_attn_cuda.o	1f106eca5c61fb60
+1	24028	1737122898288407290	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/vision.o	ce389d88afc8e619
+4	7902	1738998334366091490	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cpu/ms_deform_attn_cpu.o	dfb753e930af9337
+4	22635	1738998349088647423	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cuda/ms_deform_attn_cuda.o	51e2527dddf0d80
+5	24089	1738998350530799835	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/vision.o	64370470704521ba
+3	7858	1741685212228808620	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cpu/ms_deform_attn_cpu.o	dfb753e930af9337
+4	21994	1741685226352913643	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cuda/ms_deform_attn_cuda.o	51e2527dddf0d80
+4	23732	1741685228090049549	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/vision.o	64370470704521ba
+4	8352	1744546786433859205	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cpu/ms_deform_attn_cpu.o	dfb753e930af9337
+4	16438	1744546794511943179	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/cuda/ms_deform_attn_cuda.o	67ad9c1736665356
+4	22423	1744546800496005386	/opt/tiger/ljyaronld/RVOS/models/ops/build/temp.linux-x86_64-cpython-38/opt/tiger/ljyaronld/RVOS/models/ops/src/vision.o	64370470704521ba

@@ -1,0 +1,16 @@
+h5py 
+opencv-python
+protobuf 
+av 
+einops 
+ruamel.yaml 
+timm 
+joblib 
+pandas 
+matplotlib 
+cython 
+scipy
+transformers
+numpy
+imgaug
+wandb
