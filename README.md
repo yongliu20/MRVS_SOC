@@ -31,7 +31,8 @@ download [Video-Swin-Base](https://github.com/SwinTransformer/storage/releases/d
 download config.json pytorch_model.bin tokenizer.json vocab.json from huggingface (roberta-base)
 
 ## Pretrained Checkpoints
-The trained models for A2D-Sentences and MeViS are put here:
+The trained models for A2D-Sentences and MeViS are put [here](https://drive.google.com/drive/u/1/folders/1VTDOPd6WkDqQKaqvLbxu8JDhPhi6r9KX)
+
 
 
 
