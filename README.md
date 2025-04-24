@@ -69,13 +69,14 @@ The trained models for A2D-Sentences and MeViS are put [here](https://drive.goog
   Run the scripts ./scripts/eval_a2d.sh and remember to specify the checkpoint_path in the config file.
 
 
-- Ref-Youtube-VOS
-
-  Run the scripts ./scripts/infer_ref_ytb.sh and remember to specify the checkpoint_path in the config file.
-
 - MeViS
 
   Run the scripts ./scripts/infer_mevis.sh and remember to specify the checkpoint_path in the config file.
+
+
+- Ref-Youtube-VOS
+
+  Run the scripts ./scripts/infer_ref_ytb.sh and remember to specify the checkpoint_path in the config file.
 
 
 ## Acknowledgement
